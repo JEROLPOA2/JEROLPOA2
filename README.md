@@ -1,4 +1,4 @@
-<h1 style="color: #FFA500;">Hello Fokls... Jeronimo here!</h1>
+<h1 style="color: #FFA500;">Hello Folks... Jeronimo here!</h1>
 
 <h2 style="color: #FFA500;">Who Am I?</h2>
 
